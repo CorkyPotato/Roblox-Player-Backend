@@ -66,3 +66,6 @@ MIT; see [`LICENSE`](LICENSE).
 
 Not affiliated with Roblox Corporation. Roblox is a trademark of Roblox
 Corporation.
+
+Not affiliated with Roblox Corporation. Roblox is a trademark of Roblox
+Corporation.
