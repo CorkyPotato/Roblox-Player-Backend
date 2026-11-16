@@ -56,6 +56,10 @@ Out of scope for this repository:
 - A public release of the private research from the original workspace.
 - Changes to the Studio executor's release.
 
+## Contributors
+
+See [`CONTRIBUTORS.md`](CONTRIBUTORS.md).
+
 ## License
 
 MIT; see [`LICENSE`](LICENSE).
